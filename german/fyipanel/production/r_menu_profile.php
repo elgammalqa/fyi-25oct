@@ -1,5 +1,5 @@
 <head>
-<script async defer data-website-id="afc1b19c-5319-4097-8747-3b05933578c7" src="http://205.134.254.209:3000/umami.js"></script>
+<script async defer data-website-id="afc1b19c-5319-4097-8747-3b05933578c7" src="https://www.fyipress.net/umami.js"></script>
     <title>FYI Press</title>
 </head>
          <?php  if (isset($_COOKIE['fyipPhoto'])&&!empty($_COOKIE['fyipPhoto'])&&

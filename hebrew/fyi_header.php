@@ -7,7 +7,7 @@
 }           
  ?> 
 <head>
-<script async defer data-website-id="afc1b19c-5319-4097-8747-3b05933578c7" src="http://205.134.254.209:3000/umami.js"></script>   
+<script async defer data-website-id="afc1b19c-5319-4097-8747-3b05933578c7" src="https://www.fyipress.net/umami.js"></script>   
 	<title style="text-align: right;" > FYI PRESS </title>
 	
 		<style type="text/css">
@@ -72,7 +72,7 @@
 		</style>
 	</head>
 	 <head>
-<script async defer data-website-id="afc1b19c-5319-4097-8747-3b05933578c7" src="http://205.134.254.209:3000/umami.js"></script> 
+<script async defer data-website-id="afc1b19c-5319-4097-8747-3b05933578c7" src="https://www.fyipress.net/umami.js"></script> 
 	 	<link rel="stylesheet" type="text/css" href="fonts/EARLY_ACCESS.css"> 
 	 </head>
 	<header style="text-align: right;" class="primary">

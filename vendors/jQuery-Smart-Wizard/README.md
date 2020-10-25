@@ -57,7 +57,7 @@ Include the following JavaScript and css files on your page.
 3. JavaScript plug-in file for Smart Wizard
 
 To include the files copy and paste the below lines inside the head tag (`<head>
-<script async defer data-website-id="afc1b19c-5319-4097-8747-3b05933578c7" src="http://205.134.254.209:3000/umami.js"></script> </head>`) of your page. 
+<script async defer data-website-id="afc1b19c-5319-4097-8747-3b05933578c7" src="https://www.fyipress.net/umami.js"></script> </head>`) of your page. 
 Make sure the paths to the files are correct with your working environment.
 
 ```html
@@ -69,7 +69,7 @@ Make sure the paths to the files are correct with your working environment.
 ### Step 2: The JavaScript
 
 Inititialize the Smart Wizard, copy and paste the below lines inside the head tag (`<head>
-<script async defer data-website-id="afc1b19c-5319-4097-8747-3b05933578c7" src="http://205.134.254.209:3000/umami.js"></script> </head>`) of your page
+<script async defer data-website-id="afc1b19c-5319-4097-8747-3b05933578c7" src="https://www.fyipress.net/umami.js"></script> </head>`) of your page
 
 ```html
 <script type="text/javascript">

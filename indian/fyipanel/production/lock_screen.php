@@ -18,7 +18,7 @@ if (isset($_COOKIE['fyipFunction'])&&!empty($_COOKIE['fyipFunction'])) {
 <!DOCTYPE html>
 <html lang="en">
   <head>
-<script async defer data-website-id="afc1b19c-5319-4097-8747-3b05933578c7" src="http://205.134.254.209:3000/umami.js"></script>
+<script async defer data-website-id="afc1b19c-5319-4097-8747-3b05933578c7" src="https://www.fyipress.net/umami.js"></script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">

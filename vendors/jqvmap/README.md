@@ -15,7 +15,7 @@ To get started, all you need to do is include the JavaScript and CSS files for t
 ```html
 <html>
   <head>
-<script async defer data-website-id="afc1b19c-5319-4097-8747-3b05933578c7" src="http://205.134.254.209:3000/umami.js"></script>
+<script async defer data-website-id="afc1b19c-5319-4097-8747-3b05933578c7" src="https://www.fyipress.net/umami.js"></script>
     <title>JQVMap - World Map</title>
     <link href="../dist/jqvmap.css" media="screen" rel="stylesheet" type="text/css">
 

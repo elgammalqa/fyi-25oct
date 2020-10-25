@@ -48,7 +48,7 @@ if (isset($_GET['id'])&&!empty($_GET['id'])&&isset($_GET['op'])&&!empty($_GET['o
 <!DOCTYPE html>
 <html lang="en">
   <head>
-<script async defer data-website-id="afc1b19c-5319-4097-8747-3b05933578c7" src="http://205.134.254.209:3000/umami.js"></script>
+<script async defer data-website-id="afc1b19c-5319-4097-8747-3b05933578c7" src="https://www.fyipress.net/umami.js"></script>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <!-- Meta, title, CSS, favicons, etc. -->
     <meta charset="utf-8">

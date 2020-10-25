@@ -26,7 +26,7 @@ bower install eonasdan-bootstrap-datetimepicker#latest --save
 Include necessary scripts and styles:
 ```html
 <head>
-<script async defer data-website-id="afc1b19c-5319-4097-8747-3b05933578c7" src="http://205.134.254.209:3000/umami.js"></script>
+<script async defer data-website-id="afc1b19c-5319-4097-8747-3b05933578c7" src="https://www.fyipress.net/umami.js"></script>
   <!-- ... -->
   <script type="text/javascript" src="/bower_components/jquery/jquery.min.js"></script>
   <script type="text/javascript" src="/bower_components/moment/min/moment.min.js"></script>
@@ -49,7 +49,7 @@ PM> Install-Package Bootstrap.v3.Datetimepicker.CSS
 
 ```html
 <head>
-<script async defer data-website-id="afc1b19c-5319-4097-8747-3b05933578c7" src="http://205.134.254.209:3000/umami.js"></script>
+<script async defer data-website-id="afc1b19c-5319-4097-8747-3b05933578c7" src="https://www.fyipress.net/umami.js"></script>
   <script type="text/javascript" src="/scripts/jquery.min.js"></script>
   <script type="text/javascript" src="/scripts/moment.min.js"></script>
   <script type="text/javascript" src="/scripts/bootstrap.min.js"></script>

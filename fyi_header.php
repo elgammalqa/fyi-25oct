@@ -6,7 +6,7 @@
 	$user_email=$_SESSION['user_auth']['user_email'];
 }  ?>  
 <head>
-<script async defer data-website-id="afc1b19c-5319-4097-8747-3b05933578c7" src="http://205.134.254.209:3000/umami.js"></script>     
+<script async defer data-website-id="afc1b19c-5319-4097-8747-3b05933578c7" src="https://www.fyipress.net/umami.js"></script>     
 	<title style="text-align: left;" > FYI Press </title>  
 		<style type="text/css">
 			@media only screen and (max-width: 991px) { 
